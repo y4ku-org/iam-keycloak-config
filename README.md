@@ -21,6 +21,6 @@ Desde un browser escribir la siguiente url: ```http://localhost:7080/```
 * Repositorio [Git Keycloak-docker-compose](https://github.com/viniciusfinger/keycloak-docker-compose)
 
 ------
-![ArquiTI](./resources/images/guerrero-halcon-round-100.png "ArquiTI") Power by [ArquiTI](https://r0d4nd0-c0n-y4kup3.blogspot.com) in [y4ku-org](https://github.com/y4ku-org)Power by ArquiTI in yaku.org)
+![ArquiTI](./resources/images/guerrero-halcon-round-100.png "ArquiTI") Power by [ArquiTI](https://r0d4nd0-c0n-y4kup3.blogspot.com) in [y4ku-org](https://github.com/y4ku-org)
 
 ------
